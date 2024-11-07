@@ -4,3 +4,10 @@
 *.opendb
 *.db-wal
 *.db-shm
+*.obj
+*.ipch
+*.tlog
+*.idb
+*.pdb
+Debug/
+.vs/
